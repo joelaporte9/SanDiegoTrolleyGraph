@@ -1,0 +1,1375 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.213931,
+                    32.869282
+                ]
+            },
+            "properties": {
+                "name": "UTC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.213958,
+                    32.873665
+                ]
+            },
+            "properties": {
+                "name": "Executive Drive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.223536,
+                    32.881877
+                ]
+            },
+            "properties": {
+                "name": "UC San Diego Health La Jolla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.231846,
+                    32.878374
+                ]
+            },
+            "properties": {
+                "name": "UC San Diego Central Campus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.22989,
+                    32.874209
+                ]
+            },
+            "properties": {
+                "name": "VA Medical Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.230396,
+                    32.866973
+                ]
+            },
+            "properties": {
+                "name": "Nobel Drive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.214058,
+                    32.805856
+                ]
+            },
+            "properties": {
+                "name": "Balboa Avenue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.206104,
+                    32.790094
+                ]
+            },
+            "properties": {
+                "name": "Clairemont Drive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.205091,
+                    32.77003
+                ]
+            },
+            "properties": {
+                "name": "Tecolote Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.199581,
+                    32.754821
+                ]
+            },
+            "properties": {
+                "name": "Old Town Transit Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.184203,
+                    32.741698
+                ]
+            },
+            "properties": {
+                "name": "Washington Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.174918,
+                    32.733939
+                ]
+            },
+            "properties": {
+                "name": "Middletown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.169961,
+                    32.721614
+                ]
+            },
+            "properties": {
+                "name": "County Center / Little Italy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.169616,
+                    32.716184
+                ]
+            },
+            "properties": {
+                "name": "Santa Fe Depot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.16899,
+                    32.716197
+                ]
+            },
+            "properties": {
+                "name": "America Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.16228,
+                    32.717007
+                ]
+            },
+            "properties": {
+                "name": "Civic Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.159679,
+                    32.716927
+                ]
+            },
+            "properties": {
+                "name": "Fifth Avenue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.154191,
+                    32.716556
+                ]
+            },
+            "properties": {
+                "name": "City College"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.15377,
+                    32.710977
+                ]
+            },
+            "properties": {
+                "name": "Park & Market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.153381,
+                    32.705987
+                ]
+            },
+            "properties": {
+                "name": "12th & Imperial Transit Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.146719,
+                    32.698202
+                ]
+            },
+            "properties": {
+                "name": "Barrio Logan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.132779,
+                    32.691455
+                ]
+            },
+            "properties": {
+                "name": "Harborside"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.124708,
+                    32.686202
+                ]
+            },
+            "properties": {
+                "name": "Pacific Fleet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.113102,
+                    32.675064
+                ]
+            },
+            "properties": {
+                "name": "8th Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.108021,
+                    32.661895
+                ]
+            },
+            "properties": {
+                "name": "24th Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.098898,
+                    32.638991
+                ]
+            },
+            "properties": {
+                "name": "Bayfront / E Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.095554,
+                    32.630214
+                ]
+            },
+            "properties": {
+                "name": "H Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.085153,
+                    32.603164
+                ]
+            },
+            "properties": {
+                "name": "Palomar Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.084011,
+                    32.58442
+                ]
+            },
+            "properties": {
+                "name": "Palm Avenue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.067136,
+                    32.569791
+                ]
+            },
+            "properties": {
+                "name": "Iris Avenue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.047087,
+                    32.557817
+                ]
+            },
+            "properties": {
+                "name": "Beyer Blvd."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.029829,
+                    32.544802
+                ]
+            },
+            "properties": {
+                "name": "San Ysidro Transit Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -117.213931,
+                        32.869282
+                    ],
+                    [
+                        -117.213958,
+                        32.873665
+                    ],
+                    [
+                        -117.223536,
+                        32.881877
+                    ],
+                    [
+                        -117.231846,
+                        32.878374
+                    ],
+                    [
+                        -117.22989,
+                        32.874209
+                    ],
+                    [
+                        -117.230396,
+                        32.866973
+                    ],
+                    [
+                        -117.214058,
+                        32.805856
+                    ],
+                    [
+                        -117.206104,
+                        32.790094
+                    ],
+                    [
+                        -117.205091,
+                        32.77003
+                    ],
+                    [
+                        -117.199581,
+                        32.754821
+                    ],
+                    [
+                        -117.184203,
+                        32.741698
+                    ],
+                    [
+                        -117.174918,
+                        32.733939
+                    ],
+                    [
+                        -117.169961,
+                        32.721614
+                    ],
+                    [
+                        -117.169616,
+                        32.716184
+                    ],
+                    [
+                        -117.16899,
+                        32.716197
+                    ],
+                    [
+                        -117.16228,
+                        32.717007
+                    ],
+                    [
+                        -117.159679,
+                        32.716927
+                    ],
+                    [
+                        -117.154191,
+                        32.716556
+                    ],
+                    [
+                        -117.15377,
+                        32.710977
+                    ],
+                    [
+                        -117.153381,
+                        32.705987
+                    ],
+                    [
+                        -117.146719,
+                        32.698202
+                    ],
+                    [
+                        -117.132779,
+                        32.691455
+                    ],
+                    [
+                        -117.124708,
+                        32.686202
+                    ],
+                    [
+                        -117.113102,
+                        32.675064
+                    ],
+                    [
+                        -117.108021,
+                        32.661895
+                    ],
+                    [
+                        -117.098898,
+                        32.638991
+                    ],
+                    [
+                        -117.095554,
+                        32.630214
+                    ],
+                    [
+                        -117.085153,
+                        32.603164
+                    ],
+                    [
+                        -117.084011,
+                        32.58442
+                    ],
+                    [
+                        -117.067136,
+                        32.569791
+                    ],
+                    [
+                        -117.047087,
+                        32.557817
+                    ],
+                    [
+                        -117.029829,
+                        32.544802
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Blue Line"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.165861,
+                    32.716749
+                ]
+            },
+            "properties": {
+                "name": "Courthouse Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.162331,
+                    32.716847
+                ]
+            },
+            "properties": {
+                "name": "Civic Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.159679,
+                    32.716927
+                ]
+            },
+            "properties": {
+                "name": "Fifth Avenue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.154191,
+                    32.716556
+                ]
+            },
+            "properties": {
+                "name": "City College"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.15377,
+                    32.710977
+                ]
+            },
+            "properties": {
+                "name": "Park & Market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.153381,
+                    32.705987
+                ]
+            },
+            "properties": {
+                "name": "12th & Imperial Transit Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.141294,
+                    32.705542
+                ]
+            },
+            "properties": {
+                "name": "25th & Commercial"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.12454,
+                    32.705972
+                ]
+            },
+            "properties": {
+                "name": "32nd & Commercial"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.094912,
+                    32.708484
+                ]
+            },
+            "properties": {
+                "name": "47th Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.086055,
+                    32.709656
+                ]
+            },
+            "properties": {
+                "name": "Euclid Avenue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.063356,
+                    32.710037
+                ]
+            },
+            "properties": {
+                "name": "Encanto / 62nd Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.039591,
+                    32.723546
+                ]
+            },
+            "properties": {
+                "name": "Massachusetts Avenue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.030656,
+                    32.743477
+                ]
+            },
+            "properties": {
+                "name": "Lemon Grove Depot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.017414,
+                    32.756992
+                ]
+            },
+            "properties": {
+                "name": "Spring Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.020539,
+                    32.765178
+                ]
+            },
+            "properties": {
+                "name": "La Mesa Blvd."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.011032,
+                    32.781817
+                ]
+            },
+            "properties": {
+                "name": "Grossmont Transit Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.001782,
+                    32.785575
+                ]
+            },
+            "properties": {
+                "name": "Amaya Drive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.976176,
+                    32.791974
+                ]
+            },
+            "properties": {
+                "name": "El Cajon Transit Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -117.165861,
+                        32.716749
+                    ],
+                    [
+                        -117.162331,
+                        32.716847
+                    ],
+                    [
+                        -117.159679,
+                        32.716927
+                    ],
+                    [
+                        -117.154191,
+                        32.716556
+                    ],
+                    [
+                        -117.15377,
+                        32.710977
+                    ],
+                    [
+                        -117.153381,
+                        32.705987
+                    ],
+                    [
+                        -117.141294,
+                        32.705542
+                    ],
+                    [
+                        -117.12454,
+                        32.705972
+                    ],
+                    [
+                        -117.094912,
+                        32.708484
+                    ],
+                    [
+                        -117.086055,
+                        32.709656
+                    ],
+                    [
+                        -117.063356,
+                        32.710037
+                    ],
+                    [
+                        -117.039591,
+                        32.723546
+                    ],
+                    [
+                        -117.030656,
+                        32.743477
+                    ],
+                    [
+                        -117.017414,
+                        32.756992
+                    ],
+                    [
+                        -117.020539,
+                        32.765178
+                    ],
+                    [
+                        -117.011032,
+                        32.781817
+                    ],
+                    [
+                        -117.001782,
+                        32.785575
+                    ],
+                    [
+                        -116.976176,
+                        32.791974
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Orange Line"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.153381,
+                    32.705987
+                ]
+            },
+            "properties": {
+                "name": "12th & Imperial Transit Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.159661,
+                    32.707133
+                ]
+            },
+            "properties": {
+                "name": "Gaslamp Quarter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.163302,
+                    32.708954
+                ]
+            },
+            "properties": {
+                "name": "Convention Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.168619,
+                    32.712073
+                ]
+            },
+            "properties": {
+                "name": "Seaport Village"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.169616,
+                    32.716184
+                ]
+            },
+            "properties": {
+                "name": "Santa Fe Depot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.169961,
+                    32.721614
+                ]
+            },
+            "properties": {
+                "name": "County Center / Little Italy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.174918,
+                    32.733939
+                ]
+            },
+            "properties": {
+                "name": "Middletown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.184203,
+                    32.741698
+                ]
+            },
+            "properties": {
+                "name": "Washington Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.199581,
+                    32.754821
+                ]
+            },
+            "properties": {
+                "name": "Old Town Transit Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.196839,
+                    32.763815
+                ]
+            },
+            "properties": {
+                "name": "Morena / Linda Vista"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.16906,
+                    32.76551
+                ]
+            },
+            "properties": {
+                "name": "Fashion Valley Transit Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.158013,
+                    32.770372
+                ]
+            },
+            "properties": {
+                "name": "Hazard Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.150006,
+                    32.771133
+                ]
+            },
+            "properties": {
+                "name": "Mission Valley Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.141813,
+                    32.773679
+                ]
+            },
+            "properties": {
+                "name": "Rio Vista"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.127038,
+                    32.778341
+                ]
+            },
+            "properties": {
+                "name": "Fenton Parkway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.119569,
+                    32.781069
+                ]
+            },
+            "properties": {
+                "name": "Stadium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.110953,
+                    32.780928
+                ]
+            },
+            "properties": {
+                "name": "Mission San Diego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.097236,
+                    32.780454
+                ]
+            },
+            "properties": {
+                "name": "Grantville"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.070692,
+                    32.773331
+                ]
+            },
+            "properties": {
+                "name": "SDSU Transit Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.056837,
+                    32.777331
+                ]
+            },
+            "properties": {
+                "name": "UC San Diego Health East (formally Alvarado)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.042035,
+                    32.772222
+                ]
+            },
+            "properties": {
+                "name": "70th Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.011064,
+                    32.781815
+                ]
+            },
+            "properties": {
+                "name": "Grossmont Transit Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.001782,
+                    32.785575
+                ]
+            },
+            "properties": {
+                "name": "Amaya Drive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.976176,
+                    32.791974
+                ]
+            },
+            "properties": {
+                "name": "El Cajon Transit Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -117.153381,
+                        32.705987
+                    ],
+                    [
+                        -117.159661,
+                        32.707133
+                    ],
+                    [
+                        -117.163302,
+                        32.708954
+                    ],
+                    [
+                        -117.168619,
+                        32.712073
+                    ],
+                    [
+                        -117.169616,
+                        32.716184
+                    ],
+                    [
+                        -117.169961,
+                        32.721614
+                    ],
+                    [
+                        -117.174918,
+                        32.733939
+                    ],
+                    [
+                        -117.184203,
+                        32.741698
+                    ],
+                    [
+                        -117.199581,
+                        32.754821
+                    ],
+                    [
+                        -117.196839,
+                        32.763815
+                    ],
+                    [
+                        -117.16906,
+                        32.76551
+                    ],
+                    [
+                        -117.158013,
+                        32.770372
+                    ],
+                    [
+                        -117.150006,
+                        32.771133
+                    ],
+                    [
+                        -117.141813,
+                        32.773679
+                    ],
+                    [
+                        -117.127038,
+                        32.778341
+                    ],
+                    [
+                        -117.119569,
+                        32.781069
+                    ],
+                    [
+                        -117.110953,
+                        32.780928
+                    ],
+                    [
+                        -117.097236,
+                        32.780454
+                    ],
+                    [
+                        -117.070692,
+                        32.773331
+                    ],
+                    [
+                        -117.056837,
+                        32.777331
+                    ],
+                    [
+                        -117.042035,
+                        32.772222
+                    ],
+                    [
+                        -117.011064,
+                        32.781815
+                    ],
+                    [
+                        -117.001782,
+                        32.785575
+                    ],
+                    [
+                        -116.976176,
+                        32.791974
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Green Line"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.976176,
+                    32.791974
+                ]
+            },
+            "properties": {
+                "name": "El Cajon Transit Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.975724,
+                    32.804654
+                ]
+            },
+            "properties": {
+                "name": "Arnele Avenue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.982104,
+                    32.826935
+                ]
+            },
+            "properties": {
+                "name": "Gillespie Field"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.98125,
+                    32.841407
+                ]
+            },
+            "properties": {
+                "name": "Santee Town Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -116.976176,
+                        32.791974
+                    ],
+                    [
+                        -116.975724,
+                        32.804654
+                    ],
+                    [
+                        -116.982104,
+                        32.826935
+                    ],
+                    [
+                        -116.98125,
+                        32.841407
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Copper Line"
+            }
+        }
+    ]
+}
