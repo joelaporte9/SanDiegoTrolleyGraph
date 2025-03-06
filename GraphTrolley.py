@@ -20,8 +20,8 @@ class GraphTrolley:
         return locations
 
     def GraphNetwork(self):
-        # initiate map or graph - DiGraph is a directional graph and a graph is just a regualr matplotlib graph
-        trolley_map = nx.Graph()
+        # init map
+        trolley_map = nx.DiGraph()
         # Initialize lists to store edges and nodes
         self.edges = []  # Store edges for later use in drawing
         self.edge_colors = []  # Store colors for each edge
