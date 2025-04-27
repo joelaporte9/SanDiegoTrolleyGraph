@@ -13,21 +13,10 @@ def main():
 
     edge_map = nx.bfs_tree(G_map, source=starting_point)
     print(list(edge_map.edges()))
-    #MAKE BFS FUNCTION
+    #chinese postman problem
 
-    visited = set() # Set to keep track of visited nodes of edge_map.
-
-    def dfs(visited, edge_map, node):  #function for dfs 
-        if node not in visited:
-            print (node)
-            visited.add(node)
-            for neighbour in edge_map[node]:
-                
-                dfs(visited, edge_map, neighbour)
-
-    print("Following is the Depth-First Search")
-    dfs(visited, edge_map, starting_point)  # Add child nodes to stack
-
+    list(nx.eulerian_circuit(edge_map))
+    
     #print(edge_map)
     graph_network.DrawGraph(G_map,edge_map)
     
